@@ -64,8 +64,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - Guillermo Abriola
-- LinkedIn - [LinkedIn](https://www.linkedin.com/in/guillermo-abriola/)
+- Author - Guillermo Abriola - [LinkedIn](https://www.linkedin.com/in/guillermo-abriola/)
 
 ## License
 
